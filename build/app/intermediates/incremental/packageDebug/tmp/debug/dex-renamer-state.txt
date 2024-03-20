@@ -1,0 +1,4 @@
+#Tue Mar 19 17:47:12 CDT 2024
+base.0=/home/stanley/Desktop/Maplabs/maplabs/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
